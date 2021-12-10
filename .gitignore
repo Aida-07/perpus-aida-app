@@ -13,3 +13,5 @@ thumbs.db
 */system/cache/!index.html
 */wsdls/*
 *mailing/
+*composser.json
+*system
